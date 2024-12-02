@@ -1,1 +1,1 @@
-#Projekt z pyladies, vytvoreni dashboardu
+# Projekt z pyladies, vytvoreni dashboardu
